@@ -5,14 +5,14 @@ O Currículo Web é uma versão online e interativa do meu currículo, desenvolv
 A ideia é simples e poderosa: transformar o currículo em um site navegável.
 
 🚀Funcionalidades:
-Exibição de dados pessoais e profissionais
-Sessões organizadas (perfil, formação, habilidades, projetos, contato)
-Layout responsivo
+Exibição de dados pessoais e profissionais /
+Sessões organizadas (perfil, formação, habilidades, projetos, contato) /
+Layout responsivo /
 Navegação simples e intuitiva
 
 🛠️Tecnologias utilizadas:
-HTML5 — estrutura da página
-CSS3 — estilização e responsividade
+HTML5 — estrutura da página /
+CSS3 — estilização e responsividade /
 JavaScript — interatividade básica
 
 📈Status do projeto:
