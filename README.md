@@ -6,9 +6,8 @@ A ideia é simples e poderosa: transformar o currículo em um site navegável.
 
 🚀Funcionalidades:
 Exibição de dados pessoais e profissionais /
-Sessões organizadas (perfil, formação, habilidades, projetos, contato) /
-Layout responsivo /
-Navegação simples e intuitiva
+Sessões organizadas (perfil, formação, habilidades, projetos, contato) / 
+Navegação simples e intuitiva- proxima etapa: deixar o site responsivel
 
 🛠️Tecnologias utilizadas:
 HTML5 — estrutura da página /
